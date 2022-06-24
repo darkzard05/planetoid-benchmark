@@ -1,11 +1,11 @@
 planetoid-benchmark
 ===================
 
-* dataset (split: public, full, random)
+# * dataset (split: public, full, random)
 Cora, PubMed, CiteSeer
 
-* Model
+# * Model
 APPNP, SGConv, SplineConv
 
-* run the code.
+# * run the code.
 .\run.bat
